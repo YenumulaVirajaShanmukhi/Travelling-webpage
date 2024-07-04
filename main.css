@@ -1,0 +1,22 @@
+html{
+    font-size: 30px;
+}
+body{
+    background-color: white;
+    color:black;
+}
+a{
+    color: indianred;
+}
+a:visited{
+    color: red;
+}
+a:hover,a:active{
+    color: pink;
+}
+table,tr,th,td,caption{
+    border :0.3px solid black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    border-collapse: collapse;
+    padding:0.5rem;
+}
